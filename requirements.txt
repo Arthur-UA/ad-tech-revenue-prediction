@@ -5,3 +5,5 @@ matplotlib
 seaborn
 fastapi
 uvicorn
+Xgboost
+Requests
